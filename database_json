@@ -1,0 +1,10 @@
+{
+    "personal1": {
+        "name": "name",
+        "age": "age",
+        "ph_number": "ph_number",
+        "email": "email",
+        "usname": "usname",
+        "password": "password"
+    }
+}

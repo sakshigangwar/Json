@@ -1,0 +1,25 @@
+{
+      "employees1": {
+            "name": "sakshi",
+            "designation": "programmer",
+            "age": "24",
+            "salary": "24000"
+      },
+      "employees2": {
+            "name": "sanvi",
+            "designation": "trainer",
+            "age": "24",
+            "salary": "20000"
+      },
+      "employess3": {
+            "name": "ravi",
+            "designation": "hr",
+            "age": "25",
+            "salary": "40000"
+      },
+      "employess4": {
+            "name": "sawati",
+            "designation": "manager",
+            "age": "29"
+      }
+}
